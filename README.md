@@ -10,8 +10,8 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="DM-Js" height="30" width="40" src="https://github.com/dimasmikael/icons/blob/main/assets/flutter-original.svg">
-  <img align="center" alt="DM-Ts" height="30" width="40" src="https://github.com/dimasmikael/icons/blob/main/assets/dart-original.svg">
+  <img align="center" alt="DM-Js" height="30" width="40" src="https://github.com/dimasmikael/dimasmikael/blob/main/assets/flutter-original.svg">
+  <img align="center" alt="DM-Ts" height="30" width="40" src="https://github.com/dimasmikael/dimasmikael/blob/main/assets/dart-original.svg">
 
 </div>
   
