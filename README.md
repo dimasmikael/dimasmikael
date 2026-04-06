@@ -18,10 +18,12 @@
   <img alt="Flutter" height="30" width="40" src="https://github.com/dimasmikael/dimasmikael/blob/main/assets/flutter-original.svg">
   <img alt="Dart" height="30" width="40" src="https://github.com/dimasmikael/dimasmikael/blob/main/assets/dart-original.svg">
   <img alt="Firebase" height="30" width="40" src="https://github.com/dimasmikael/dimasmikael/blob/main/assets/firebase-plain.svg">
-  <img alt="MySQL" height="30" width="40" src="https://github.com/dimasmikael/dimasmikael/blob/main/assets/mysql-original.svg">
+  <img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
+  <img alt="Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img alt="Azure DevOps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg">
   <img alt="Android Studio" height="30" width="40" src="https://github.com/dimasmikael/dimasmikael/blob/main/assets/androidstudio-original.svg">
   <img alt="VS Code" height="30" width="40" src="https://github.com/dimasmikael/dimasmikael/blob/main/assets/vscode-original.svg">
-  <img alt="Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 </div>
 
 ---
@@ -29,8 +31,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimasmikael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasmikael&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dimasmikael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dimasmikael&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div align="center">
