@@ -34,10 +34,6 @@
   <img src="https://streak-stats.demolab.com?user=dimasmikael&theme=dark&hide_border=false" alt="streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasmikael&theme=dark" alt="streak"/>
-</div>
-
 ---
 
 ### 📬 Contato
