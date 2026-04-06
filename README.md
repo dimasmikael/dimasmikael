@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Dimas Mikael 👋</h1>
 
 <p align="center">
-  📱 Mobile Developer · 🔐 Information Security Enthusiast · ☁️ AWS in progress
+  📱 Mobile Developer · 🔐 Information Security Enthusiast · ☁️ Cloud & DevSecOps learner
 </p>
 
 <p align="center">
@@ -21,7 +21,6 @@
   <img alt="MySQL" height="30" width="40" src="https://github.com/dimasmikael/dimasmikael/blob/main/assets/mysql-original.svg">
   <img alt="Android Studio" height="30" width="40" src="https://github.com/dimasmikael/dimasmikael/blob/main/assets/androidstudio-original.svg">
   <img alt="VS Code" height="30" width="40" src="https://github.com/dimasmikael/dimasmikael/blob/main/assets/vscode-original.svg">
-  <img alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
   <img alt="Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 </div>
 
